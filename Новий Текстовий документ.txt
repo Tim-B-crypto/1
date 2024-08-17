@@ -1,2 +1,1 @@
-print 'Hello'
-print 'Have a nice day'
+print Hello
